@@ -1,0 +1,5 @@
+76 - Seja ΔABC um triângulo qualquer, sendo sua altura também a bissetriz. Como a altura forma uma perpendicular à base do
+triângulo, formando dois triângulos com lado comum BN, sendo N o pé da perpendicular e o ponto de interseção com a base de ΔABC,
+então tem-se ΔABN e ΔCBN. Como os ângulos ∠ANB e ∠CNB [?] são congruentes (e também temos uma bissetriz formando em B dois ângulos 
+congruentes ∠B′ ≅ ∠B″) e temos o lado comum BN, então pelo método de congruência ALA, temos ΔABN ≅ ΔCBN; assim AB ≅ CB, logo é um 
+triângulo isósceles.

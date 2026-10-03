@@ -1,0 +1,13 @@
+79 - Sejam os triângulos ΔABC e ΔDEF de forma tal que o ângulo θ de ΔABC seja congruente a α de ΔDEF, que o lado AB, adjacente a θ,
+seja congruente ao lado DE, adjacente a α, e que as bissetrizes (segmentos) de θ e α, B′ e B″ respectivamente, sejam congruentes. A 
+bissetriz B′ divide θ em θ′ e θ″, e B″ divide α em α′ e α″. Dessa forma, como temos inicialmente que θ ≅ α, então α′ ≅ α″ ≅ θ′ ≅ 
+θ″.
+
+Agora, seja em ΔABC o ponto M onde B′ intersecta AC, partindo de B, e seja em ΔDEF o ponto N onde B″ intersecta DF, partindo de E; 
+então em ΔABC temos os triângulos ΔABM e ΔCBM e em ΔDEF temos ΔDEN e ΔFEN. Com B′ ≅ B″ ≅ BM ≅ EN, θ′ ≅ α′ ≅ θ″ ≅ α″ e AB ≅ DE, 
+então ΔABM ≅ ΔDEN, pelo método LAL.
+
+Assim, como são congruentes, temos que os ângulos internos de ΔABM e ΔDEN são congruentes. Portanto ∠AMB ≅ ∠DNE; sendo assim, seus 
+respectivos suplementares ∠BMC e ∠ENF são congruentes. Assim, temos em ΔCBM e ΔFEN, com os ângulos α′ ≅ α″ ≅ θ′ ≅ θ″, ∠BMC ≅ ∠ENF 
+e BM ≅ EN, uma relação de congruência estabelecida pelo método ALA. Com isso, sendo ΔCBM ≅ ΔFEN e ΔABM ≅ ΔDEN, temos que ΔABC ≅ 
+ΔDEF. ∎

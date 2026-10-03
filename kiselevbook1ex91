@@ -1,0 +1,15 @@
+91 - 
+ΔABC.
+Traça-se uma mediana a partir de B, com ponto médio N em AC.
+A-N-C e CN ≅ AN.
+(AB + BC)/2 = AB/2 + BC/2.
+Na reta de BN é erguido, a partir de N, um segmento externo com o comprimento de BN, de extremidade L (NL ≅ BN).
+A partir de C e A traçam-se segmentos, a obter-se ΔCNL e ΔANL, com os ângulos ∠BNA, ∠LNC e ∠CNB, ∠ANL opostos pelo vértice.
+BN ≅ LN, AN ≅ CN e ∠LNC ≅ ∠BNA; por LAL, ΔBNA ≅ ΔLNC.
+CN ≅ AN, BN ≅ LN e ∠CNB ≅ ∠ANL; por LAL, ΔCNB ≅ ΔANL.
+LA + AB > BL → LA/2 + AB/2 > BL/2.
+(ΔCNB ≅ ΔANL, com CN ≅ AN e BN ≅ NL) → LA ≅ CB.
+LA ≅ CB → (LA + AB)/2 = (AB + CB)/2.
+(AB + CB)/2 > BL/2.
+BL/2 = (2BN)/2 = BN.
+∴ (AB + CB)/2 > BN. ∎

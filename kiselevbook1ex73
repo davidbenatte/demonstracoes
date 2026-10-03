@@ -1,7 +1,0 @@
-73 - Seja ΔABC um triângulo equilátero, com AB′ ≅ BC′ ≅ CA′, de forma que existam dentro de ΔABC os triângulos ΔA′B′C′, ΔB′AA′,
-ΔA′CC′ e ΔB′BC′. Consequentemente, temos, da relação de congruência no triângulo equilátero, que B′B ≅ CC′ ≅ AA′. Assim, como em
-ΔB′AA′ e ΔA′CC′ tem-se, respectivamente, AB′ ≅ A′C e AA′ ≅ C′C, e a congruência dos ângulos ∠B′AA′ e ∠C′CA′, então pelo método LAL
-tem-se ΔB′AA′ ≅ ΔA′CC′; por isso podemos dizer que B′A′ ≅ A′C′.
-
-Agora, analisando o triângulo ΔB′BC′, temos que, em relação a ΔA′CC′, B′B ≅ C′C e BC′ ≅ CA′, com os ângulos ∠B′BC′ e ∠A′CC′ sendo
-congruentes; então, pelo método LAL, ΔB′BC′ ≅ ΔA′CC′, portanto tem-se que B′C′ ≅ C′A′ ≅ B′A′. Logo, ΔA′B′C′ é equilátero.

@@ -1,0 +1,11 @@
+92 - 
+ΔABC.
+AM mediana de BC; CN mediana de AB; BO mediana de AC.
+Pelo teorema do exercício 91, temos que (AB + BC)/2 > BO; (AB + AC)/2 > AM; (BC + AC)/2 > CN.
+((AB + BC)/2 + (AB + AC)/2 + (BC + AC)/2 > BO + AM + CN) → AB + BC + AC > BO + AM + CN.
+(OC + BO > BC ∧ AO + BO > AB) ∧ (AM + BM > AB ∧ AM + MC > AC) ∧ (CN + BN > BC ∧ CN + AN > AC).
+AC + 2BO > BC + AB ∧ 2AM + BC > AB + AC ∧ 2CN + AB > BC + AC.
+(AB + AC + BC) + (2BO + 2AM + 2CN) > 2AB + 2BC + 2AC.
+2(BO + AM + CN) > AB + BC + AC.
+BO + AM + CN > (AB + BC + AC)/2.
+AB + BC + AC > BO + AM + CN > (AB + BC + AC)/2. ∎

@@ -1,0 +1,10 @@
+93 - 
+Seja ABCD um quadrilátero convexo. Traçando-se as diagonais, podemos obter os 4 triângulos: ΔABC, ΔADC, ΔADB e ΔBDC. Sendo, em
+ΔABC: AB + BC > AC; em ΔADC: AD + DC > AC; em ΔADB: AD + AB > DB; e em ΔBDC: DC + BC > DB. Temos
+(AB + BC) + (AD + DC) + (AD + AB) + (DC + BC) > 2DB + 2AC.
+Então 2(AB + BC + AD + DC) > 2(DB + AC), ou seja, AB + BC + AD + DC > DB + AC.
+Agora, seja O o ponto de interseção entre AC e DB; temos ΔAOD, ΔCOD, ΔAOB e ΔBOC tais que AO + DO > AD, CO + DO > DC, CO + BO > BC 
+e AO + BO > AB. Então
+2(AO + DO + CO + BO) > AB + BC + DC + AD,
+isto é, 2(AC + DB) > AB + BC + DC + AD.
+Portanto: AC + DB > (AB + BC + DC + AD)/2. ∎

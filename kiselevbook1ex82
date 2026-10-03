@@ -9,7 +9,7 @@ B-O-C′ e B′-O-C → ∠BOC ≅ ∠B′OC′, e ∠BOB′ e ∠COC′.
 AB′ ≅ AB, AC ≅ AC′ e ∠A comum a ΔAB′C e ΔABC′ → ΔAB′C ≅ ΔABC′.
 AC ≥ AB e AC′ ≥ AB′ → (BC = AC − AB) ≅ (B′C′ = AC′ − AB′), ou AC < AB e AC′ < AB′ → (BC = AB − AC) ≅ (B′C′ = AB′ − AC′); então BC
 ≅ B′C′ (dilema construtivo).
-A-B-C, A-B′-C′, B-O-C′ e B′-O-C → ∠CBC′ ≅ ∠OBC e ∠CB′C′ ≅ ∠OB′C′; e ∠CB′C ≅ ∠OB'C' e ∠ACB' ≅ ∠BCO E ∠AC'B ≅ ∠B'C'O.
+A-B-C, A-B′-C′, B-O-C′ e B′-O-C → ∠CBC′ ≅ ∠OBC e ∠CB′C′ ≅ ∠OB′C′; e ∠ACB' ≅ ∠BCO E ∠AC'B ≅ ∠B'C'O.
 ΔAB′C ≅ ΔABC′, com AB′ ≅ AB e AC ≅ AC′ → ∠AB′C ≅ ∠ABC′ e ∠ACB′ ≅ ∠AC′B.
 Como ∠ABC′ + ∠OBC = 180° e ∠AB′C + ∠OB′C′ = 180° e ∠ACB′ ≅ ∠AC′B → ∠OBC ≅ ∠OB′C′ e ∠BCO ≅ ∠B′C′O.
 BC ≅ B′C′, ∠OB′C′ ≅ ∠OBC e ∠BCO ≅ ∠B′C′O → ΔBOC ≅ ΔB′OC′ (ALA).

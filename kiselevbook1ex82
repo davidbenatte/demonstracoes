@@ -1,11 +1,11 @@
 82 - Dados: ∠A, com AB ∩ AC = A e AB′ ∩ AC′ = A; B, C e B′, C′ em lados opostos; AB ≅ AB′ e AC ≅ AC′; A-B-C e A-B′-C′.
 
 AC ≅ AC′ → ΔACC′ é isósceles → ∠C ≅ ∠C′; AB ≅ AB′ → ΔABB′ é isósceles → ∠B ≅ ∠B′.
-Bissetriz de ∠A ≅ mediatriz de ΔABB′ e ΔACC′ → a bissetriz de ∠A é congruente à bissetriz dos ângulos nos vértices de ΔABB′ e
+Bissetriz de ∠A = mediatriz de ΔABB′ e ΔACC′ → a bissetriz de ∠A é igual à bissetriz dos ângulos nos vértices de ΔABB′ e
 ΔACC′.
 ΔABB′ e ΔACC′ são isósceles → ∠ACC′ ≅ ∠AC′C e ∠ABB′ ≅ ∠AB′B.
 BC′ ∩ B′C = O → ΔBOB′, ΔB′OC′, ΔBOC, ΔCOC′.
-B-O-C′ e B′-O-C → ∠BOC ≅ ∠B′OC′, e ∠BOB′ e ∠COC′.
+B-O-C′ e B′-O-C → (∠BOC ≅ ∠B′OC′) e (∠BOB′) e (∠COC′).
 AB′ ≅ AB, AC ≅ AC′ e ∠A comum a ΔAB′C e ΔABC′ → ΔAB′C ≅ ΔABC′.
 AC ≥ AB e AC′ ≥ AB′ → (BC = AC − AB) ≅ (B′C′ = AC′ − AB′), ou AC < AB e AC′ < AB′ → (BC = AB − AC) ≅ (B′C′ = AB′ − AC′); então BC
 ≅ B′C′ (dilema construtivo).
@@ -14,7 +14,7 @@ A-B-C, A-B′-C′, B-O-C′ e B′-O-C → ∠CBC′ ≅ ∠OBC e ∠CB′C′ 
 Como ∠ABC′ + ∠OBC = 180° e ∠AB′C + ∠OB′C′ = 180° e ∠ACB′ ≅ ∠AC′B → ∠OBC ≅ ∠OB′C′ e ∠BCO ≅ ∠B′C′O.
 BC ≅ B′C′, ∠OB′C′ ≅ ∠OBC e ∠BCO ≅ ∠B′C′O → ΔBOC ≅ ΔB′OC′ (ALA).
 ΔBOC ≅ ΔB′OC′ → OC ≅ OC′ → ΔCOC′ é isósceles.
-ΔACC′ ∩ ΔCOC′ = CC′ → mediatriz de ΔACC′ = mediatriz de ΔCOC′.
+CC′ ∈ (ΔACC′ ∩ ΔCOC′) → mediatriz de ΔACC′ = mediatriz de ΔCOC′.
 A mediatriz de ΔACC′ é a bissetriz de ∠A → a mediatriz de ΔCOC′ é a bissetriz de ∠A.
 Como a mediatriz é uma perpendicular única em CC′, temos que a bissetriz de ΔACC′ e a de ΔCOC′ são únicas; como B-O-C′ e B′-O-C, a
 bissetriz passa por O, a interseção de BC′ e B′C. ∎

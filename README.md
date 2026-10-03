@@ -1,3 +1,9 @@
+**2.** Show that if a geometric figure is congruent to another geometric figure, which is in its turn congruent to a third geometric figure, then the first geometric figure is congruent to the third.
+
+**6.** Referring to §4, show that for any two points of a plane, there is a straight line lying in this plane and passing through them, and that such a line is unique.
+
+**Prove: 38.** Bisectors of two supplementary angles are perpendicular to each other.
+
 **73.** Prove that a quadrilateral is a kite if it has an axis of symmetry passing through a vertex.
 
 **76.** In a given triangle, an altitude is a bisector. Prove that the triangle is isosceles.
@@ -36,3 +42,5 @@
 **92.** The sum of the medians of a triangle is smaller than its perimeter but greater than its semi-perimeter.
 
 **93.** The sum of the diagonals of a quadrilateral is smaller than its perimeter but greater than its semi-perimeter.
+
+**94.** The sum of segments connecting a point inside a triangle with its vertices is smaller than the semiperimeter of the triangle.

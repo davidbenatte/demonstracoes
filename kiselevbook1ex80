@@ -1,0 +1,4 @@
+80 - Sejam ΔBAC e ΔEDF triângulos quaisquer, com AB ≅ DE e AC ≅ DF; com a mediana partindo de B em direção a AC, intersectando em
+M no triângulo BAC, e com a mediana partindo de E em direção a DF, intersectando em N no triângulo EDF, e sendo então BM ≅ EN, tem-
+se BM ≅ EN e AM ≅ DN; pelo teorema LLL tem-se ΔBAM ≅ ΔEDN. Por fim, sendo congruentes, tem-se ∠BAM ≅ ∠EDN, e tendo-se, por AM ≅ 
+DN ≅ MC ≅ NF, visto que AC ≅ DF, e sendo AB ≅ DE, por LAL temos ΔBAC ≅ ΔDEF. ∎

@@ -1,0 +1,5 @@
+89 - Sendo o semiperímetro igual à soma das metades de cada lado, então, num triângulo ABC, temos que o semiperímetro é igual a
+AB/2 + BC/2 + AC/2. Agora, escolhendo um lado qualquer, temos pelo teorema "a soma de dois lados do triângulo é maior do que o lado 
+restante" que AB/2 + BC/2 > AC/2. Como o semiperímetro inclui a metade de AC, temos que:
+AB/2 + BC/2 + AC/2 > AC/2 + AC/2 ⇒ (AB + BC + AC)/2 > AC.
+Portanto, conclui-se que o semiperímetro é maior do que cada lado do triângulo. ∎

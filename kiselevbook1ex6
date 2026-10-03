@@ -1,0 +1,4 @@
+6 - Suponha os pontos A e B contidos no plano p. Agora, suponha que uma reta r externa a p passe por esses dois pontos, então
+estaria contradizendo o teorema "um plano contendo dois pontos de uma reta contém todos os pontos dessa reta", portanto a reta não 
+poderia ser externa. Agora suponha uma outra reta n coincidindo com os pontos A, B de r. Então n irá coincidir com todos os pontos 
+de r, portanto são a mesma reta. Conclui-se que r está contida em p e é única.

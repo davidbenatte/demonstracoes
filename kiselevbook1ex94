@@ -1,0 +1,6 @@
+94 -
+ΔABC é um triângulo qualquer, sendo O um ponto interno de modo que esteja ligado aos 3 vértices do triângulo ABC. Temos então:
+ΔAOC, ΔCOB, ΔBOA. Assim, sejam:
+AO + CO > AC e CO + BO > CB e BO + AO > AB
+Então: 2(AO + CO + BO) > AC + CB + AB
+∴ AO + CO + BO > (AC + CB + AB) . 1/2

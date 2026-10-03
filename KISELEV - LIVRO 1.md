@@ -6,8 +6,6 @@
 
 [**Prove: 38.** Bisectors of two supplementary angles are perpendicular to each other.](https://github.com/davidbenatte/demonstracoes/blob/main/kiselevbook1ex38)
 
-[**73.** Prove that a quadrilateral is a kite if it has an axis of symmetry passing through a vertex.](https://github.com/davidbenatte/demonstracoes/blob/main/kiselevbook1ex73)
-
 [**76.** In a given triangle, an altitude is a bisector. Prove that the triangle is isosceles.](https://github.com/davidbenatte/demonstracoes/blob/main/kiselevbook1ex76)
 
 [**77.** In a given triangle, an altitude is a median. Prove that the triangle is isosceles.](https://github.com/davidbenatte/demonstracoes/blob/main/kiselevbook1ex77)

@@ -1,0 +1,6 @@
+88 - Conforme o teorema §45, "o segmento que conecta dois pontos é sempre menor que a linha poligonal que conecta os dois pontos",
+temos que 2 + 3 > x. Agora, conforme o teorema de que "a soma de dois lados de um triângulo é sempre maior do que a medida do lado 
+restante", temos:
+2 + x > 3 e 3 + x > 2.
+Da mesma forma, 10 + 4 > x e 10 + x > 4 e x + 4 > 10; como x < 2 + 3, então x + 4 > 10 é uma impossibilidade.
+∴ Um quadrilátero com lados medindo 2, 3, 4 e 10 cm é impossível. ∎

@@ -1,0 +1,16 @@
+84 (A) - Seja ABCDE um pentágono convexo com os lados AB ≅ BC ≅ CD ≅ DE ≅ EA e as diagonais EC ≅ BE ≅ BD ≅ AC ≅ AD. Então temos,
+pelo método LLL (AB ≅ BC, BE ≅ BD e AE ≅ CD), que ΔEAB ≅ ΔDCB. Consequentemente, temos ∠A ≅ ∠C, ∠ABE ≅ ∠CBD e ∠AEB ≅ ∠BDC, e o 
+triângulo isósceles ΔEBD, com ∠BED ≅ ∠BDE. Portanto, tem-se ∠A ≅ ∠C e ∠E ≅ ∠D.
+Agora, considerando ΔCDE e ΔABC, sendo CD ≅ BC ≅ AB ≅ ED e sendo EC ≅ AC, então pelo método LLL temos ΔABC ≅ ΔCDE, sendo portanto 
+∠B ≅ ∠D ≅ ∠E.
+Ainda considerando ΔAED e ΔDCB, pelo método LLL (BC ≅ CD ≅ ED ≅ AE e AD ≅ BD) temos ΔAED ≅ ΔDCB; portanto ∠C ≅ ∠E. Aplicando a 
+transitividade, temos:
+∠A ≅ ∠B ≅ ∠C ≅ ∠D ≅ ∠E. ∎
+
+84 (B) - Seja ABCDE um pentágono convexo com todos os ângulos internos congruentes e todos os seus lados congruentes. Então, 
+traçando as diagonais BD e BE, temos por LAL que ΔBAE ≅ ΔBCD; então BD ≅ BE.
+Agora, traçando as diagonais AD e BD, temos por LAL que ΔAED ≅ ΔBCD; então AD ≅ BD. Agora, traçando BE e CE, temos por LAL que 
+ΔBAE ≅ ΔCDE; então BE ≅ CE.
+Como BD ≅ BE, AD ≅ BD e BE ≅ CE, temos por transitividade AD ≅ BD ≅ BE ≅ CE.
+Agora, traçando AC e AD, temos por LAL que ΔAED ≅ ΔABC; então AC ≅ AD.
+∴ AC ≅ AD ≅ BD ≅ BE ≅ CE. ∎

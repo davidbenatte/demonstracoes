@@ -1,0 +1,11 @@
+90 - Seja ABC um triângulo qualquer, com a mediana partindo de B ao ponto M de AC. Tem-se, inicialmente, AB + AM > BM e MC + BC > 
+BM, pelo teorema "a soma de dois lados do triângulo é maior do que a medida do lado restante".
+Assim, como o semiperímetro é a soma das metades dos lados, e sendo N o ponto médio de AB e O o ponto médio de BC, temos que em AB, 
+AN ≅ NB, portanto AB = 2AN, e em BC, BO ≅ OC, portanto BC = 2BO. Podemos reescrever 2AN + AM > BM e 2BO + MC > BM; ainda, como AM 
+≅ MC, 2BO + MC = 2BO + AM. Assim, temos:
+
+2AN + AM > BM
+2BO + AM > BM
+2AN + 2BO + 2AM > 2BM, simplificando:
+AN + BO + AM > BM
+Portanto, tem-se que o semiperímetro é maior do que a mediana. ∎
